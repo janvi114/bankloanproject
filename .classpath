@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BLM_1-main/src/main/java"/>
+	<classpathentry kind="lib" path="BLM_1-main/target/loan-management-system-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="BLM_1-main/target/classes"/>
+</classpath>
